@@ -10,4 +10,11 @@ Order Logistics: Processed 5,009 Total Orders with a strong Average Order Value 
 
 Returns Management: Tracked 296 Returned Orders, maintaining a manageable Return Ratio of 5.91%.
 
+# 🛠️ Tech Stack & Skills Demonstrated data Visualization & Dashboard Design: 
+Created clean, high-impact grid layouts with clear visual hierarchy using structural KPI cards.
+
+Business Intelligence (BI): Applied fundamental financial formula logic (Profit Ratio, Return Ratio, AOV) to raw data streams.
+
+Trend & Cohort Analysis: Implemented conditional color-coding (up/down delta indicators) to quickly pinpoint month-over-month performance shifts.
+
 <img width="1616" height="812" alt="image" src="https://github.com/user-attachments/assets/ffbb0e7d-fe01-49e9-bd74-3fe57fde83c0" />
