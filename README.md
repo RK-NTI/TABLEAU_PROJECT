@@ -38,4 +38,8 @@ Created clean, high-impact grid layouts with clear visual hierarchy using struct
 # 🔍 Strategic & Visual Insights
 **Technology ($836,154):** The primary driver of business growth, likely commanding higher unit pricing and contributing heavily to the high AOV.
 
+**Furniture ($742,000):** A massive revenue driver, though typically plagued by higher freight costs that might be weighing down the total 12.47% profit margin.
+
+**Office Supplies ($719,047)**: A highly stable, recurring revenue engine that provides predictable baseline volumes
+
 <img width="1616" height="812" alt="image" src="https://github.com/user-attachments/assets/ffbb0e7d-fe01-49e9-bd74-3fe57fde83c0" />
