@@ -35,4 +35,7 @@ Created clean, high-impact grid layouts with clear visual hierarchy using struct
 
 **Trend & Cohort Analysis:** Implemented conditional color-coding (up/down delta indicators) to quickly pinpoint month-over-month performance shifts.
 
+# 🔍 Strategic & Visual Insights
+**Technology ($836,154):** The primary driver of business growth, likely commanding higher unit pricing and contributing heavily to the high AOV.
+
 <img width="1616" height="812" alt="image" src="https://github.com/user-attachments/assets/ffbb0e7d-fe01-49e9-bd74-3fe57fde83c0" />
