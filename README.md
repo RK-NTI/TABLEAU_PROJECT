@@ -9,7 +9,7 @@ This project features an interactive data visualization dashboard designed to tr
 **Order Logistics:** Processed 5,009 Total Orders with a strong Average Order Value (AOV) of $458.60.
 
 **Returns Management:** Tracked 296 Returned Orders, maintaining a manageable Return Ratio of 5.91%.
-I used tableau features like: filters, kpi cards, slicers, and parameter.
+
 # 🔍 Core Insights & Visualizations
 
 **1. Product Performance (Sales Across Category)**
