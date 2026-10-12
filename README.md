@@ -1,6 +1,7 @@
 # E-Commerce Performance Analysis (KPI Report)
 # 📌 Project Overview:
 This project features an interactive data visualization dashboard designed to track, analyze, and report key performance indicators (KPIs) for an e-commerce business. The dashboard synthesizes sales data across time, product categories, and order volumes to provide actionable business insights into profitability, seasonal trends, and operational efficiency.
+
 # 📊 Key Business Performance Metrics
 **Total Sales: $2,297,201** driven across multiple years and product lines.
 
@@ -41,5 +42,6 @@ Created clean, high-impact grid layouts with clear visual hierarchy using struct
 **Furniture ($742,000):** A massive revenue driver, though typically plagued by higher freight costs that might be weighing down the total 12.47% profit margin.
 
 **Office Supplies ($719,047)**: A highly stable, recurring revenue engine that provides predictable baseline volumes
+
 
 <img width="1616" height="812" alt="image" src="https://github.com/user-attachments/assets/ffbb0e7d-fe01-49e9-bd74-3fe57fde83c0" />
