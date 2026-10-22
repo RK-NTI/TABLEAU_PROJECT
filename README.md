@@ -1,4 +1,5 @@
 # E-Commerce Performance Analysis (KPI Report)
+# about project
 # 📌 Project Overview:
 This project features an interactive data visualization dashboard designed to track, analyze, and report key performance indicators (KPIs) for an e-commerce business. The dashboard synthesizes sales data across time, product categories, and order volumes to provide actionable business insights into profitability, seasonal trends, and operational efficiency.
 
